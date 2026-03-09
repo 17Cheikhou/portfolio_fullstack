@@ -87,7 +87,7 @@ header.sticky {
     display: flex;
     align-items: center;
     padding: 0 8%;
-    background: linear-gradient(rgba(15, 23, 42, 0.9), rgba(15, 23, 42, 0.9)), url('../images/hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(15, 23, 42, 0.9), rgba(15, 23, 42, 0.9)), url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60') no-repeat center center/cover;
 }
 
 .hero-content {
